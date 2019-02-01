@@ -1,2 +1,3 @@
 Need to add all ATM's to fn_npcAddActions.sqf
 Need to update spyglass so when = true  it stops kicking lol
+Make sure every npc is working
